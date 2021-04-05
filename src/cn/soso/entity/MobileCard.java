@@ -5,7 +5,7 @@ package cn.soso.entity;
  *
  */
 public class MobileCard {
-	private String cardNumber;  //卡号
+	private String cardNumber;  //手机卡号
 	private String userName;  //用户名
 	private String passWord;  //密码	
 	private ServicePackage serPackage;  //所属套餐

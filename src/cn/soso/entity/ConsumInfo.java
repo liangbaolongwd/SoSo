@@ -9,7 +9,7 @@ import cn.soso.common.ConsumType;
  *
  */
 public class ConsumInfo {
-	private String cardNumber;  //卡号
+	private String cardNumber;  // 手机卡号
 	private String type;  //消费类型：通话、发短信、上网
 	private int consumData;   //消费数据   通话：分钟   发短信：条   上网：MB
 	
