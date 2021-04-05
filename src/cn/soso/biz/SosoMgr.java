@@ -11,7 +11,7 @@ import cn.soso.utils.CardUtil;
  * 业务类
  * 
  * @author 北大青鸟
- * 梁保龙
+ * 梁保龙   大帅哥
  * 
  */
 public class SosoMgr {
